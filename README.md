@@ -5,8 +5,6 @@
 
 ## Hesaplarım
 
----
-
 * Github [click](https://github.com/altunc) !
 
 * LinkedIn [click](https://www.linkedin.com/in/mehmetaltunc/) !
